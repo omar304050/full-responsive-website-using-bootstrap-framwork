@@ -1,0 +1,83 @@
+@media (min-width: 576px) {
+
+    .slid1 h1 {
+        font-size: 2.5rem;
+    }
+
+    .slid2 h1 {
+        font-size: 2.5rem;
+    }
+
+    .slid3 h1 {
+        font-size: 2.5rem;
+    }
+   
+}
+
+
+
+
+@media (min-width: 768px) {
+    .slid1 h1 {
+        font-size: 3.5rem;
+    }
+
+    .slid2 h1 {
+        font-size: 3.5rem;
+    }
+
+    .slid3 h1 {
+        font-size: 3.5rem;
+    }
+    #service .p1{
+        max-width: 70%;
+    }
+    #about .p1{
+        max-width: 70%;
+    }
+    #team .p1{
+        max-width: 70%;
+    }
+    #contact .p1 {
+        max-width: 70%;
+    }
+    #reviews .p1 {
+        max-width: 70%;
+    }
+}
+
+
+@media (min-width: 992px) {
+    .slid1 h1 {
+        font-size: 4.5rem;
+    }
+
+    .slid2 h1 {
+        font-size: 4.5rem;
+    }
+
+    .slid3 h1 {
+        font-size: 4.5rem;
+    }
+    #service .p1{
+        max-width: 50%;
+    }
+    #about .p1{
+        max-width: 50%;
+    }
+    #team .p1{
+        max-width: 50%;
+    }
+    #contact .p1 {
+        max-width: 50%;
+    }
+    #reviews .p1 {
+        max-width: 50%;
+    }
+}
+
+
+@media (min-width: 1200px) {}
+
+
+@media (min-width: 1400px) {}
