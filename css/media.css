@@ -44,6 +44,14 @@
     #reviews .p1 {
         max-width: 70%;
     }
+    #about .indec1 {
+        column-gap: 300px;
+    
+    }
+    #about .indec3 {
+        column-gap: 320px;
+    
+    }
 }
 
 
